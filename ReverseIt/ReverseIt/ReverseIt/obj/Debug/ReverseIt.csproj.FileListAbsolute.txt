@@ -1,1 +1,0 @@
-\\shcsd\sharp\soc\profiles\regradra\Desktop\GitHub\Csharp\ReverseIt\ReverseIt\ReverseIt\bin\Debug\ReverseIt.exe.config
