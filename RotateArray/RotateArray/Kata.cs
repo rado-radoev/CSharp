@@ -12,7 +12,10 @@ namespace RotateArray
         {
             if (n > 0)
             {
-                // rotate array to the right
+                for (int i = 0; i < n; i++)
+                {
+
+                }
             }
             else if (n < 0)
             {
@@ -20,7 +23,7 @@ namespace RotateArray
             }
             else if (n == 0)
             {
-                // return array unchanged
+                return array;
             }
         }
     }
