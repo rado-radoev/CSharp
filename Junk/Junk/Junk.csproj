@@ -50,6 +50,7 @@
     <Compile Include="Delegates.cs" />
     <Compile Include="Door.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="Encrypter.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="House.cs" />
     <Compile Include="Kata-CountContains.cs" />
