@@ -47,6 +47,7 @@
     <Compile Include="AlbumTest.cs" />
     <Compile Include="ApartmentPersion.cs" />
     <Compile Include="BigPhotoAlbum.cs" />
+    <Compile Include="ComplexNumbers.cs" />
     <Compile Include="Delegates.cs" />
     <Compile Include="Door.cs" />
     <Compile Include="Employee.cs" />
