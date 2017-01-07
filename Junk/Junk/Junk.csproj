@@ -64,6 +64,12 @@
     <Compile Include="Recursion1.cs" />
     <Compile Include="Recursion2.cs" />
     <Compile Include="Recursion3.cs" />
+    <Compile Include="Recursion4.cs" />
+    <Compile Include="Recursion5.cs" />
+    <Compile Include="Recursion6.cs" />
+    <Compile Include="Recursion7.cs" />
+    <Compile Include="Recursion8.cs" />
+    <Compile Include="Recursion9.cs" />
     <Compile Include="ReverseIt.cs" />
     <Compile Include="SmallApartment.cs" />
     <Compile Include="Student.cs" />

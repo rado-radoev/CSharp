@@ -9,7 +9,7 @@ namespace Junk
 	class Program {
 		static void Main(string[] args)
 		{
-            Recursion3.SumOfTen(1, 10);            
-        }
+			
+		}
 	}
 }
