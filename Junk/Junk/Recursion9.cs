@@ -8,9 +8,23 @@ namespace Junk
 {
 	class Recursion9
 	{
-		public static void CheckPalindrom(string s)
+		public static bool IsPalindrome(string s)
 		{
+			int min = 0;
+			int max = s.Length - 1;
 
+			while (min < max)
+			{
+				if (s[min] != s[max])
+				{
+					return false;
+				}
+
+				min++;
+				max--;
+			}
+
+			return true;
 		}
 	}
 }
