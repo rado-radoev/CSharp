@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Junk
 {
+	public delegate void MyDelegate();
 	class Program {
 		static void Main(string[] args)
 		{
-			Console.WriteLine(Recursion9.IsPalindrome("radar"));
+			DelegateEvents eventExcercises = new DelegateEvents();
+			eventExcercises.mydelegate += new MyDelegate(eventExcercises.Method1);
+			eventExcercises.Method2();
+			Console.ReadLine();
 		}
 	}
 }
